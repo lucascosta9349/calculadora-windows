@@ -1,0 +1,18 @@
+.imgEND
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li{
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px; /* Ajuste conforme necessário */
+}
+
+li img{
+    margin-right: 10px; /* Espaço entre a imagem e o texto, ajuste conforme necessário */
+    height: auto; /* Mantém a proporção da imagem */
+}
+ 
